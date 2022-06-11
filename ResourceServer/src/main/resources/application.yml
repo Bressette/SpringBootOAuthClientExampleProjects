@@ -1,0 +1,6 @@
+spring:
+  security:
+    oauth2:
+      resourceserver:
+        jwt:
+          issuer-uri: https://dev-75166832.okta.com/oauth2/default
